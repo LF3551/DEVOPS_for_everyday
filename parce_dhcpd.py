@@ -22,7 +22,7 @@ def parse_command_output(template,command_output):    # парс шаблоно�
                 pass  
             elif "SIP-" in line[1]:
                 pass  
-            elif "mywild" in line[1]:
+            elif "myphone" in line[1]:
                 pass  
             elif "videosrv" in line[1]:
                 pass              
