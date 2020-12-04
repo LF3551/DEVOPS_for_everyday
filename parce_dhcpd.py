@@ -56,3 +56,4 @@ if __name__ == "__main__":
         
     result = parse_command_output("templates/dhcp_koledino.template", output)
     pprint(result)
+    
