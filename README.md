@@ -1,2 +1,2 @@
 # DEVOPS_for_everyday
-in this repository we post useful scripts for work
+this repository is for posting useful scripts for work
