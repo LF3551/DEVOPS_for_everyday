@@ -5,7 +5,7 @@ import csv
 
 
 '''
-parce songs from amalgamma with translations
+parce songs from https://www.amalgama-lab.com/ with translations
 '''
 
 def parce(url):
