@@ -16,7 +16,7 @@ print(f"Today is {real_date}, {day_of_week}")
 def auto_script():
     with open ("C:\python_data\personal.yml") as f:
         id_sheets = (yaml.safe_load(f))["sheets_id"]
-    table_WORK_TIME = f"WORK TIME!1:1000"
+    table_WORK_TIME = f"WORK_TIME!1:1000"
     data_from_WORK_TIME = read_sheets(table_WORK_TIME, id_sheets)
     table_to_enumerate= []
     night_table = []
