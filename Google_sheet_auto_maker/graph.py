@@ -27,7 +27,7 @@ def auto_script():
     y = [i for i in my_dict.values()]
 
         # plot
-    plt.plot(x,y)
+    plt.bar(x,y)
     plt.gcf().autofmt_xdate(rotation=90,bottom=0.3)
     plt.show()
 
